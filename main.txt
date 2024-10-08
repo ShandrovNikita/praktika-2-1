@@ -1,3 +1,5 @@
 This is the main branch
 
-Вношу изменения в файл main.txt
+
+&quot;Изменение из ветки conflict-branch&quot;
+
